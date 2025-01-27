@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\bin\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.exe
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\bin\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.deps.json
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\bin\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.runtimeconfig.json
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\bin\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.dll
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\bin\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.pdb
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\obj\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\obj\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\obj\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.AssemblyInfo.cs
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\obj\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\obj\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.dll
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\obj\Debug\net8.0\refint\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.dll
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\obj\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.pdb
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\obj\Debug\net8.0\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.genruntimeconfig.cache
+C:\Users\PC\Desktop\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion\obj\Debug\net8.0\ref\Task.ContinueWith_TaskContinuationOptions.OnlyOnRanToCompletion.dll
